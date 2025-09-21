@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Jugar Baloncesto",
+        "url": "./app/assets/img/baloncesto.png",
+        "texto": "Me gusta jugar baloncesto porque me mantiene activo, mejora mi condición física y me divierto con mis amigos."
+      },
+      {
+        "nombre": "Estudiar Programación",
+        "url": "./app/assets/img/programacion.jpg",
+        "texto": "Dedico tiempo a aprender programación porque me apasiona crear proyectos, resolver problemas y desarrollar nuevas habilidades."
+      },
+      {
+        "nombre": "Jugar Videojuegos",
+        "url": "./app/assets/img/videojocs.jpeg",
+        "texto": "Los videojuegos son una forma divertida de relajarme, retarme mentalmente y compartir experiencias con amigos en línea."
+      },
+      {
+        "nombre": "Jugar con mi perro",
+        "url": "./app/assets/img/miperro.jpg",
+        "texto": "Pasar tiempo con mi perro me alegra el día, me ayuda a desconectarme y a disfrutar de momentos de compañía y cariño."
+      },
+      {
+        "nombre": "Escuchar Música",
+        "url": "./app/assets/img/musica.jpeg",
+        "texto": "La música me inspira, me relaja y me acompaña en diferentes momentos de mi vida, desde estudiar hasta descansar."
+      }
+]
