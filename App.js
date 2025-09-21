@@ -3,7 +3,7 @@ import { ajax } from "./app/helper/ajax.js"
 
 export const App = () => {
     ajax({
-            url:"./app/assets/pasatiempos.json",
+            url:"https://github.com/ITLA-Dextron03/blog-personal/tree/main/app/assets/pasatiempos.json",
             cbSuccess:cambiarPasaTiempo
         });
 }
